@@ -7,7 +7,7 @@ Shopping cart project :
 
 I used React@18 (Functional Component ) & React-router-dom@6.9.0 & MIUI & ContextAPI and useReducer
 
-### [Live demo](https://main--sage-griffin-6f7d20.netlify.app/)
+### [Live demo](https://sage-griffin-6f7d20.netlify.app/)
 ### To install all the required dependencies
 
 ```
